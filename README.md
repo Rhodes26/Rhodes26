@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rhodes26
-- 👀 I’m interested in Artifical Intelligence and data.
-- 🌱 I’m currently learning Python, HTML, and CSS. I am self taught and like learning new things.
+- 👀 I’m interested in Artifical Intelligence and data. I work in the funeral industry. 
+- 🌱 I’m currently learning Python, HTML, and CSS. I am self taught and educating myself on artifical intelligence. 
 - 📫 How to reach me  duplain4th@gmail.com 
