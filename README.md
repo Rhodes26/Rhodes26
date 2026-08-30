@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Rhodes26
-- 👀 I’m interested in Machine Leaaning and Data. I work in the Funeral Industry. 
-- 🌱 I’m currently learning Python, HTML, and CSS. I am self taught and educating myself.
+- 🌱 I am self taught software developer.
 - 📫 How to reach me  duplain4th@gmail.com 
