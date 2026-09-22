@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rhodes26
-- 🌱 I am self taught software developer.
+- 🌱 I am self taught software engineering 
 - 📫 How to reach me  duplain4th@gmail.com 
