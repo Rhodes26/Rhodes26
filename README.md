@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rhodes26
-- 🌱 I am self taught software engineering 
+- 🌱 I am self taught software engineering and Funeral Director  
 - 📫 How to reach me  duplain4th@gmail.com 
